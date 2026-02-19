@@ -1,5 +1,3 @@
-# Me
-
 <h1 align="center">Hi 👋, I'm Samir</h1>
 <h3 align="center">A Student who is learning to become Software developer</h3>
 
